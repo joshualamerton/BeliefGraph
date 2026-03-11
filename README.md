@@ -6,6 +6,14 @@
 
 BeliefGraph is an open framework for persistent reasoning in AI agents.
 
+## Quick Start
+
+Clone the repository and run the belief propagation demo.
+
+git clone https://github.com/joshuamlamerton/BeliefGraph
+cd BeliefGraph
+python examples/demo.py
+
 Most AI agents today are stateless. Each interaction starts fresh or relies on vector retrieval. This makes it difficult for agents to maintain long-term beliefs, track assumptions, or update conclusions as new evidence appears.
 
 BeliefGraph introduces a structured layer that allows agents to maintain explicit belief networks.
