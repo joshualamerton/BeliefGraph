@@ -1,5 +1,9 @@
 # BeliefGraph
 
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Status](https://img.shields.io/badge/build-experimental-orange)
+
 BeliefGraph is an open framework for persistent reasoning in AI agents.
 
 Most AI agents today are stateless. Each interaction starts fresh or relies on vector retrieval. This makes it difficult for agents to maintain long-term beliefs, track assumptions, or update conclusions as new evidence appears.
