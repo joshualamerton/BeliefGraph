@@ -66,6 +66,19 @@ F --> B
   "evidence_sources": ["market_data", "historical_trends"]
 }
 ```
+## Running the Prototype
+
+Clone the repository and run the demo:
+
+```bash
+python examples/demo.py
+```
+
+The script demonstrates:
+
+- creating a belief
+- adding evidence
+- updating confidence using a Bayesian rule
 
 ---
 
